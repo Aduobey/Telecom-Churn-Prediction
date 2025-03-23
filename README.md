@@ -41,11 +41,6 @@ Clone the repository and install dependencies:
  cd Telco-Churn-Prediction
  pip install -r requirements.txt
 ```
-Run the model script:
-```sh
- python churn_model.py
-```
-
 ## 📧 Contact
 For questions or contributions, reach out via GitHub Issues.
 
